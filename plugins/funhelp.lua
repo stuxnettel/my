@@ -3,7 +3,7 @@ do
 function run(msg, matches)
 if msg.to.type == 'channel' and is_momod(msg) then
   return ''..[[
-➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖
 ✔️لیست دستورات فان:
 ➖➖➖➖➖➖➖
 💢》#فعالان گروه
@@ -83,8 +83,8 @@ if msg.to.type == 'channel' and is_momod(msg) then
 
 ➰بجای کلمه یا متن موارد دلخواه خود را بنویسید.
 ➖➖➖➖➖➖➖
-➰ ʝօìղ մʂ ìժ çհ :
-➰ @antispamandhack
+➰create by :
+➰@GOD_B0Y  
 ➖➖➖➖➖➖➖ ]]
 end
 end

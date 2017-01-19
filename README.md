@@ -1,4 +1,4 @@
-# [TeleDiamond](https://telegram.me/antispamandhack)
+# [TeleViper](https://telegram.me/viper_ch)
 
 l antispam system with custom sensitivity for each group**
 * **Multiple realms (admin groups)**

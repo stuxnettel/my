@@ -127,8 +127,8 @@ if msg.to.type == 'channel' and is_momod(msg) then
 
 ➰شما میتوانید از '/' یا '!' یا '#' برای اجرای دستورات استفاده کنید.
 ➖➖➖➖➖➖➖
-➰ ʝօìղ մʂ ìժ çհ :
-➰ @antispamandhack
+➰create by :
+➰@GOD_B0Y 
 ➖➖➖➖➖➖➖ ]]
 end
 end
